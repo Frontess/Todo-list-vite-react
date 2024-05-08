@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Learn React Query",
+      "completed": false
+    },
+    {
+      "title": "Тестирование проекта на JavaScript",
+      "completed": true,
+      "id": 2
+    },
+    {
+      "title": "Интернет-магазин Vue.js",
+      "completed": true,
+      "id": 3
+    },
+    {
+      "title": "Vue",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "title": "Work",
+      "completed": true,
+      "id": 5
+    }
+  ]
+}
